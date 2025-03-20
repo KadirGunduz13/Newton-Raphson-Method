@@ -1,4 +1,4 @@
-# Yeniton Yöntemi (Newton's Method) İle Kök Bulma
+# Newton Yöntemi (Newton's Method) İle Kök Bulma
 
 Bu proje, **Yeniton Yöntemi**'ni (Newton's Method) kullanarak bir fonksiyonun kökünü bulan bir C programı içerir. Program, kullanıcıdan bir başlangıç değeri alır ve belirtilen hata oranına ulaşana kadar iterasyonlar yaparak kökü bulur.
 
