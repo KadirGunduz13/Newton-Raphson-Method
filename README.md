@@ -24,7 +24,6 @@ Türev fonksiyonu ise:
 
 Program, kullanıcıdan başlangıç değeri olarak bir `x` değeri alır ve bu değeri iteratif olarak kullanarak kökü bulmaya çalışır.
 
-## Çıktı
 
 Programın çıktısı, kök değerini ve kaç iterasyon yapıldığını ekrana yazdırır.
 
@@ -32,5 +31,4 @@ Programın çıktısı, kök değerini ve kaç iterasyon yapıldığını ekrana
 
 - Hata oranı varsayılan olarak `0.001`'dir. Bu değer, kökün bulunduğu doğruluğu belirtir ve kullanıcı tarafından değiştirebilir.
 
-## Örnek Çıktı
 
